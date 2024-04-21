@@ -1,5 +1,5 @@
 <template>
-  <div class="w-100 mt-[100px] flex justify-center md:mt-[200px]">
+  <div class="w-100 my-[100px] flex justify-center md:my-[200px]">
     <div class="flex max-w-[320px] flex-col md:max-w-[640px]">
       <span class="font-serif text-[36px] text-stone-500 md:text-[40px]">
         Privacy Policy

@@ -1,6 +1,6 @@
 <template>
   <div
-    class="w-100 flex h-[400px] items-center justify-center bg-[#fcf9f7] md:h-[calc(100vh-100px)]"
+    class="w-100 flex h-[400px] items-center justify-center bg-[#fcf9f7] md:h-[100vh]"
   >
     <h2 class="font-serif text-[36px] text-stone-500 md:text-[40px]">
       Your favorite skincare

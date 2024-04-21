@@ -1,6 +1,7 @@
 <template>
   <div
-    class="flex h-[100px] w-full items-center justify-between bg-[transparent]"
+    class="absolute top-0 z-10 flex h-[100px] w-full items-center justify-between"
+    :class="route.path === '/' ? 'bg-[#fcf9f7]' : 'bg-[transparent]'"
   >
     <div v-if="route.path !== '/'">
       <nuxt-link to="/">
